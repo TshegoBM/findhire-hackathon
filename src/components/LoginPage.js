@@ -5,7 +5,7 @@ import {
   signInWithPopup,
   GoogleAuthProvider,
 } from "firebase/auth";
-import { auth } from "../firebase"; // import the auth object you created earlier
+import { auth } from "../firebase"; 
 import loginImage from "../assets/Login-visual.png";
 import logoImage from "../assets/FindHire-logo.jpeg";
 import googleImage from "../assets/Google.png";
